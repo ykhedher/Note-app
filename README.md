@@ -1,2 +1,2 @@
 # Note-app
-Note app with nodejs 
+Note app using nodejs.
